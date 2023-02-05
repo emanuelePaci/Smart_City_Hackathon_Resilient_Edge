@@ -6,6 +6,7 @@ TU Berlin's online smart cities classes: digitalization of urban critical infras
 
 Project Topic: Resilient Edge Computing with Renewable Emergency Power Supply
 
+Final Grade: 1.0/6.0 [30/30]
 
 ## Programming Languages 
 
